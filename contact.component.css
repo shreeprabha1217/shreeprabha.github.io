@@ -1,0 +1,69 @@
+.email{
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 50%;
+    display: flex;
+    width: 80%;
+    animation: rotateIn 1.5s ease-in-out;
+}
+.mail{
+    text-align: center;
+    margin-left: 50px;
+    font-weight: bold;
+    animation: rotateIn 1.5s ease-in-out;
+}
+.github{
+    margin-top: 3%;
+    margin-left: 40%;
+    margin-right: 50%;
+    display: flex;
+    width: 80%;
+    animation: rotateIn 1.5s ease-in-out;
+}
+.git{
+    text-align: center;
+    margin-left: 50px;
+    color:blue;
+    animation: rotateIn 1.5s ease-in-out;
+    
+}
+.linkedin{
+    margin-top: 3%;
+    margin-left: 40%;
+    margin-right: 50%;
+    display: flex;
+    width: 80%;
+    animation: rotateIn 1.5s ease-in-out;
+}
+.link{
+    text-align: center;
+    margin-left: 50px;
+    animation: rotateIn 1.5s ease-in-out;
+    
+}
+.insta{
+    margin-top: 3%;
+    margin-left: 40%;
+    margin-right: 50%;
+    display: flex;
+    width: 80%;
+    animation: rotateIn 1.5s ease-in-out;
+}
+.gram{
+    text-align: center;
+    margin-left: 50px;
+    color: black;
+    font-weight: bold;
+    animation: rotateIn 1.5s ease-in-out;
+    
+}
+@keyframes rotateIn {
+    0% {
+        transform: rotate(-45deg);
+        opacity: 0;
+    }
+    100% {
+        transform: rotate(0);
+        opacity: 1;
+    }
+}

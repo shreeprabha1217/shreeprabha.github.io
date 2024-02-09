@@ -1,0 +1,101 @@
+.food-container{
+    width:  20%;
+    height: 20%;
+    margin-left: 40%;
+    margin-right: 50%;
+    margin-top: 3%;
+    color:navy;
+    animation: fadeIn 2s ease-in-out;
+}
+.title{
+    width: 150%;
+    margin-left:-25%;
+    font-size: 1.1em;
+    animation: fadeIn 2s ease-in-out;
+}
+.food{
+    color: palevioletred;
+}
+.the{
+    color: brown;
+}
+.app{
+    color:green ;
+}
+.reduce{
+    color: peru;
+}
+.about{
+    color: black;
+    width:230%;
+    margin-left: -190px;
+    text-align: justify;
+    font-size: 1.2em;
+    animation: fadeIn 2s ease-in-out;
+    
+}
+.about1{
+    width: 230%;
+    color: black;
+    margin-left: -190px;
+    text-align: justify;
+    font-size: 1.2em;
+    animation: fadeIn 2s ease-in-out;
+}
+.pharmacy-management{
+    width: 20%;
+    height: 20%;
+    margin-left: 40%;
+    margin-right: 50%;
+    margin-top: 3%;
+    color:skyblue;
+    animation: fadeIn 2s ease-in-out;
+}
+.title1{
+    margin-left: 5%;
+    font-size: 1.1em;
+    animation: fadeIn 2s ease-in-out;
+}
+.phar{
+    color: palevioletred;
+}
+.manage{
+    color: blueviolet;
+}
+.bibi{
+    width: 20%;
+    height: 20%; 
+    margin-left: 40%;
+    margin-right: 50%;
+    margin-top: 3%;
+    animation: fadeIn 2s ease-in-out;
+}
+.title2{
+    
+    font-size: 1.1em;
+    color: blue;
+    margin-left: 80px;
+    animation: fadeIn 2s ease-in-out;
+}
+.about2{
+    width: 230%;
+    color: black;
+    margin-left: -190px;
+    text-align: justify;
+    font-size: 1.2em;
+    animation: fadeIn 2s ease-in-out;
+}
+.blank{
+    width: 5%;
+    height: 5%;
+    text-align: center;
+    margin-top: 3%;
+}
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
